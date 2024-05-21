@@ -67,6 +67,9 @@ ul{
     border-radius: 50px;
 }
 
+.Navbar{
+    margin-right: 20px;
+}
 
 
 
@@ -94,5 +97,10 @@ ul{
         border-radius: 50px;
         width: 100%;
     }
+
+      .Navbar{
+        margin-right: 30px;
+    }
+    
     
 }
